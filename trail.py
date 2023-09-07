@@ -18,7 +18,8 @@ class TrailSplit:
     -<                >-following-
       \____bottom____/
     """
- 
+    
+    
     top: Trail
     bottom: Trail
     following: Trail
